@@ -299,6 +299,7 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
+    
   }
   
   .cancel-button:hover {
